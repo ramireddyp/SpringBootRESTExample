@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Assign Read Permissions to  User</shortname>
+  <description>this will assign Reader permissions to a content node</description>
+  <url>/user/permissions</url>
+  <format default="json"/>
+  <authentication>user</authentication>
+</webscript>
